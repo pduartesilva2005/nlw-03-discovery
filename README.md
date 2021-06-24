@@ -39,8 +39,8 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 Antes de começar executar esse projeto é necessário ter o Node.js e o Git instalado.
 
-- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw3-discovery.git`;
-- 2 - Entre na pasta `cd nlw3-discovery`;
+- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/nlw-03-discovery.git`;
+- 2 - Entre na pasta `cd nlw-03-discovery`;
 - 3 - Rode `yarn` ou `npm install` para instalar as dependências;
 - 5 - Rode a inicialização do banco de dados: `yarn db:init` ou `npm run db:init`;
 - 6 - Rode `yarn dev` ou `npm run dev` para rodar o projeto
